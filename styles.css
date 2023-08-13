@@ -69,3 +69,14 @@ p {
     max-width: 550px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+a {
+    font-weight: 900;
+    color: #2669b3;
+}
+
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
